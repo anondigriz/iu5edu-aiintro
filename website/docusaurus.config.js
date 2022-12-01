@@ -18,8 +18,8 @@ async function createConfig() {
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: 'ИУ5 курсы', // Usually your GitHub org/user name.
-    projectName: 'aiintro', // Usually your repo name.
+    organizationName: 'anondigriz', // Usually your GitHub org/user name.
+    projectName: 'iu5edu-aiintro', // Usually your repo name.
 
     // Even if you don't use internalization, you can use this field to set useful
     // metadata like html lang. For example, if your site is Chinese, you may want
@@ -39,7 +39,7 @@ async function createConfig() {
             // Please change this to your repo.
             // Remove this to remove the "edit this page" links.
             editUrl:
-              'https://gitlab.com/iu5edu/aiintro/textbook/-/tree/main/website',
+              'https://github.com/anondigriz/iu5edu-aiintro/tree/main/website',
           },
           theme: {
             customCss: require.resolve('./src/css/custom.css'),
@@ -65,8 +65,8 @@ async function createConfig() {
               label: 'Руководство',
             },
             {
-              href: 'https://gitlab.com/iu5edu/aiintro/',
-              label: 'GitLab',
+              href: 'https://github.com/anondigriz/iu5edu-aiintro/',
+              label: 'GitHub',
               position: 'right',
             },
 
@@ -101,8 +101,8 @@ async function createConfig() {
               title: 'Дополнительно',
               items: [
                 {
-                  label: 'GitLab',
-                  href: 'https://gitlab.com/iu5edu/aiintro/',
+                  label: 'GitHub',
+                  href: 'https://github.com/anondigriz/iu5edu-aiintro/',
                 },
               ],
             },
