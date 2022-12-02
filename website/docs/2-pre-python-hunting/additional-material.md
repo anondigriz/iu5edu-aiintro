@@ -15,6 +15,5 @@ sidebar_position: 3
   - [Codingame](https://www.codingame.com/)
   - [HackerRank](https://www.hackerrank.com/)
   - [Coderbyte](https://coderbyte.com/)
-  - [Объектно-ориентированное программирование (ООП). Объясняем на пальцах](https://highload.today/obektno-orientirovannoe-programmirovanie/)
 - Полезные статьи:
   - [Что такое Markdown и как им пользоваться](https://lifehacker.ru/chto-takoe-markdown/)
