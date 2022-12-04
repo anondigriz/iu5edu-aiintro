@@ -107,8 +107,7 @@ async function createConfig() {
               ],
             },
           ],
-          copyright: `Атрибуция: ИУ5 курсы, <a href="https://mivar.org/">НИИ Мивар</a>, <a href="https://inginirium.ru/">Инжинириум&#174;
-</a>. ${new Date().getFullYear()}.<br>Текст доступен по лицензии <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru"> Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</a>, если не указано иного.`,
+          copyright: `Атрибуция: ИУ5 курсы, <a href="https://mivar.org/">НИИ Мивар</a>. ${new Date().getFullYear()}.<br>Текст доступен по лицензии <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru"> Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</a>, если не указано иного.`,
         },
         prism: {
           theme: lightCodeTheme,
